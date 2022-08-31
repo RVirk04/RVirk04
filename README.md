@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Web Development
 - 🌱 I’m currently enrolled in Business Information Technology at Red River College
 - 💞️ I’m looking to collaborate on Web Development, MVC .NET Framework, Java Development, and Database Management.
-- 📫 How to reach me ... Feel free to email me on rvirk120@academic.rrc.ca
+- 📫 How to reach me ... Feel free to email me on rvirk120@academic.rrc.ca or message me linkedin www.linkedin.com/in/randeep-virk
 
 "Measuring programming progress by lines of code is like measuirng aircraft building by weight. - BILL GATES"
 
